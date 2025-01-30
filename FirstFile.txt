@@ -1,0 +1,2 @@
+Hello! 
+Initializing Git repository that has been embedded with VS code!
